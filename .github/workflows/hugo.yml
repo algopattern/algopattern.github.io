@@ -15,4 +15,4 @@ jobs:
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
       with:
-	pandoc_command: pandoc-default --citeproc --bibliography=data/bibliography.json
+        pandoc_command: "pandoc-default --citeproc --bibliography=data/bibliography.json"
