@@ -1,1 +1,0 @@
-# algopattern.github.io
