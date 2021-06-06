@@ -1,0 +1,43 @@
+[
+{
+	"uri": "http://algopattern.github.io/catalogue/",
+	"title": "Catalogue",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://algopattern.github.io/",
+	"title": "Alpaca",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://algopattern.github.io/catalogue/tidalcycles/",
+	"title": "Tidalcycles",
+	"tags": [],
+	"description": "",
+	"content": "I love patterns (Alvina, Malloch, and Mackay 2016).\n\\(f(x)=\\sum_{n=0}^\\infty\\frac{f^{(n)}(a)}{n!}(x-a)^n\\)\n\\[a^2 + b^2 = c^2\\]\nAlvina, Jessalyn, Joseph W. Malloch, and W. Mackay. 2016. “Expressive Keyboards: Enriching Gesture-Typing on Mobile Devices.” UIST. https://doi.org/gjh43b.   "
+},
+{
+	"uri": "http://algopattern.github.io/catalogue/siteswap/",
+	"title": "Siteswap",
+	"tags": [],
+	"description": "",
+	"content": "Juggling is fun.\n"
+},
+{
+	"uri": "http://algopattern.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://algopattern.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

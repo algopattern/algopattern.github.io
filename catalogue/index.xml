@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalogue on Alpaca</title>
+    <link>http://algopattern.github.io/catalogue/</link>
+    <description>Recent content in Catalogue on Alpaca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 06 Jun 2021 15:44:02 +0100</lastBuildDate><atom:link href="http://algopattern.github.io/catalogue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tidalcycles</title>
+      <link>http://algopattern.github.io/catalogue/tidalcycles/</link>
+      <pubDate>Sun, 06 Jun 2021 15:45:56 +0100</pubDate>
+      
+      <guid>http://algopattern.github.io/catalogue/tidalcycles/</guid>
+      <description>I love patterns (Alvina, Malloch, and Mackay 2016).
+\(f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n\)
+\[a^2 + b^2 = c^2\]
+Alvina, Jessalyn, Joseph W. Malloch, and W. Mackay. 2016. “Expressive Keyboards: Enriching Gesture-Typing on Mobile Devices.” UIST. https://doi.org/gjh43b.   </description>
+    </item>
+    
+    <item>
+      <title>Siteswap</title>
+      <link>http://algopattern.github.io/catalogue/siteswap/</link>
+      <pubDate>Sun, 06 Jun 2021 15:45:36 +0100</pubDate>
+      
+      <guid>http://algopattern.github.io/catalogue/siteswap/</guid>
+      <description>Juggling is fun.</description>
+    </item>
+    
+  </channel>
+</rss>
