@@ -18,7 +18,7 @@
 	"title": "Tidalcycles",
 	"tags": [],
 	"description": "",
-	"content": "I love patterns (Alvina, Malloch, and Mackay 2016).\n\\(f(x)=\\sum_{n=0}^\\infty\\frac{f^{(n)}(a)}{n!}(x-a)^n\\)\nwell.\nAlvina, Jessalyn, Joseph W. Malloch, and W. Mackay. 2016. “Expressive Keyboards: Enriching Gesture-Typing on Mobile Devices.” UIST. https://doi.org/gjh43b.   "
+	"content": "Tidal is a domain specific language designed for people who love making patterns (Spiegel 1981).\nSpiegel, Laurie. 1981. “Manipulations of Musical Patterns.” In Proceedings of the Symposium on Small Computers and the Arts, 19–22.   "
 },
 {
 	"uri": "http://algopattern.github.io/catalogue/siteswap/",
