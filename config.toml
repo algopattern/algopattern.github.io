@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://algopattern.github.io/"
 languageCode = "en-gb"
-title = "My New Hugo Site"
-theme = "hugo-theme-learn"
+title = "Alpaca"
+theme = "learn"
 
 # For search functionality
 [outputs]
