@@ -1,28 +1,14 @@
 [
 {
-	"uri": "http://algopattern.github.io/catalogue/",
-	"title": "Catalogue",
-	"tags": [],
-	"description": "",
-	"content": "Algorithmic Pattern Catalogue "
-},
-{
 	"uri": "http://algopattern.github.io/",
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Algorithmic Pattern Catalogue Welcome to this test website.\n"
+	"content": "Algorithmic Pattern Catalogue Alpaca is a laboratory for Algorithmic Pattern, based on-line and hopefully one day as a physical research lab in Sheffield UK, emerging from the ERC PENELOPE project, within the FoAM Kernow bubble.\nAlpaca are wonderful animals whose fleeces produce fantastic wool, which is as important for exploring algorithmic patterns as silicon. Alpaca is also short for the Algorithmic Pattern Catalog, an idea which we hope to get going over the next couple of years.\nFor now, we have a forum, exploring readings around algorithmic patterns.\n"
 },
 {
-	"uri": "http://algopattern.github.io/tags/livecoding/",
-	"title": "livecoding",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://algopattern.github.io/tags/music/",
-	"title": "music",
+	"uri": "http://algopattern.github.io/categories/",
+	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -30,41 +16,6 @@
 {
 	"uri": "http://algopattern.github.io/tags/",
 	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://algopattern.github.io/catalogue/tidalcycles/",
-	"title": "Tidalcycles",
-	"tags": ["livecoding", "music"],
-	"description": "",
-	"content": "TidalCycles is a domain specific language designed for people who love making patterns (Spiegel 1981; Ball 2001). Eglash (1999) wrote some interesting things about patterns.\nReferences Ball, Philip. 2001. The Self-Made Tapestry: Pattern Formation in Nature. Oxford, New York: Oxford University Press.  Eglash, Ron. 1999. African Fractals: Modern Computing and Indigenous Design. Illustrated edition. New Brunswick, N.J: Rutgers University Press.  Spiegel, Laurie. 1981. “Manipulations of Musical Patterns.” In Proceedings of the Symposium on Small Computers and the Arts, 19–22.   "
-},
-{
-	"uri": "http://algopattern.github.io/tags/juggling/",
-	"title": "juggling",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://algopattern.github.io/tags/movement/",
-	"title": "movement",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://algopattern.github.io/catalogue/siteswap/",
-	"title": "Siteswap",
-	"tags": ["movement", "juggling"],
-	"description": "",
-	"content": "Juggling is fun.\n"
-},
-{
-	"uri": "http://algopattern.github.io/categories/",
-	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""

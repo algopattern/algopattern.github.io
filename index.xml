@@ -5,26 +5,6 @@
     <link>http://algopattern.github.io/</link>
     <description>Recent content on Alpaca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 06 Jun 2021 15:45:56 +0100</lastBuildDate><atom:link href="http://algopattern.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tidalcycles</title>
-      <link>http://algopattern.github.io/catalogue/tidalcycles/</link>
-      <pubDate>Sun, 06 Jun 2021 15:45:56 +0100</pubDate>
-      
-      <guid>http://algopattern.github.io/catalogue/tidalcycles/</guid>
-      <description>TidalCycles is a domain specific language designed for people who love making patterns (Spiegel 1981; Ball 2001). Eglash (1999) wrote some interesting things about patterns.
-References Ball, Philip. 2001. The Self-Made Tapestry: Pattern Formation in Nature. Oxford, New York: Oxford University Press.  Eglash, Ron. 1999. African Fractals: Modern Computing and Indigenous Design. Illustrated edition. New Brunswick, N.J: Rutgers University Press.  Spiegel, Laurie. 1981. “Manipulations of Musical Patterns.” In Proceedings of the Symposium on Small Computers and the Arts, 19–22.</description>
-    </item>
-    
-    <item>
-      <title>Siteswap</title>
-      <link>http://algopattern.github.io/catalogue/siteswap/</link>
-      <pubDate>Sun, 06 Jun 2021 15:45:36 +0100</pubDate>
-      
-      <guid>http://algopattern.github.io/catalogue/siteswap/</guid>
-      <description>Juggling is fun.</description>
-    </item>
-    
+    <language>en-gb</language><atom:link href="http://algopattern.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
