@@ -63,3 +63,14 @@ name = "<i class='fab fa-github'></i> Website source"
 identifier = "ds"
 url = "https://github.com/algopattern/algopattern.github.io"
 weight = 30
+
+[[menu.shortcuts]] 
+name = '<i class="fab fa-twitter-square"></i> Twitter'
+url = "https://twitter.com/algopattern"
+weight = 20
+
+[[menu.shortcuts]] 
+name = '<i class="fas fa-envelope-square"></i> Email'
+url = "mailto:alex@slab.org"
+weight = 25
+
