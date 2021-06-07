@@ -3,11 +3,9 @@ title = "Catalogue"
 date = 2021-06-06T15:44:02+01:00
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+pre = '<i class="fas fa-book-reader"></i> '
 +++
 
-### Chapter X
+# Algorithmic Pattern Catalogue
 
-# Some Chapter title
 
-Lorem Ipsum.
