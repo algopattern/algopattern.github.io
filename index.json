@@ -4,7 +4,7 @@
 	"title": "Catalogue",
 	"tags": [],
 	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+	"content": "Algorithmic Pattern Catalogue "
 },
 {
 	"uri": "http://algopattern.github.io/",
@@ -14,22 +14,15 @@
 	"content": "Algorithmic Pattern Catalogue Welcome to this test website.\n"
 },
 {
-	"uri": "http://algopattern.github.io/catalogue/tidalcycles/",
-	"title": "Tidalcycles",
+	"uri": "http://algopattern.github.io/tags/livecoding/",
+	"title": "livecoding",
 	"tags": [],
 	"description": "",
-	"content": "TidalCycles is a domain specific language designed for people who love making patterns (Spiegel 1981; Ball 2001). Eglash (1999) wrote some interesting things about patterns.\nReferences Ball, Philip. 2001. The Self-Made Tapestry: Pattern Formation in Nature. Oxford, New York: Oxford University Press.  Eglash, Ron. 1999. African Fractals: Modern Computing and Indigenous Design. Illustrated edition. New Brunswick, N.J: Rutgers University Press.  Spiegel, Laurie. 1981. “Manipulations of Musical Patterns.” In Proceedings of the Symposium on Small Computers and the Arts, 19–22.   "
+	"content": ""
 },
 {
-	"uri": "http://algopattern.github.io/catalogue/siteswap/",
-	"title": "Siteswap",
-	"tags": [],
-	"description": "",
-	"content": "Juggling is fun.\n"
-},
-{
-	"uri": "http://algopattern.github.io/categories/",
-	"title": "Categories",
+	"uri": "http://algopattern.github.io/tags/music/",
+	"title": "music",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -37,6 +30,41 @@
 {
 	"uri": "http://algopattern.github.io/tags/",
 	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://algopattern.github.io/catalogue/tidalcycles/",
+	"title": "Tidalcycles",
+	"tags": ["livecoding", "music"],
+	"description": "",
+	"content": "TidalCycles is a domain specific language designed for people who love making patterns (Spiegel 1981; Ball 2001). Eglash (1999) wrote some interesting things about patterns.\nReferences Ball, Philip. 2001. The Self-Made Tapestry: Pattern Formation in Nature. Oxford, New York: Oxford University Press.  Eglash, Ron. 1999. African Fractals: Modern Computing and Indigenous Design. Illustrated edition. New Brunswick, N.J: Rutgers University Press.  Spiegel, Laurie. 1981. “Manipulations of Musical Patterns.” In Proceedings of the Symposium on Small Computers and the Arts, 19–22.   "
+},
+{
+	"uri": "http://algopattern.github.io/tags/juggling/",
+	"title": "juggling",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://algopattern.github.io/tags/movement/",
+	"title": "movement",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://algopattern.github.io/catalogue/siteswap/",
+	"title": "Siteswap",
+	"tags": ["movement", "juggling"],
+	"description": "",
+	"content": "Juggling is fun.\n"
+},
+{
+	"uri": "http://algopattern.github.io/categories/",
+	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
