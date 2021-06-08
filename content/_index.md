@@ -1,4 +1,4 @@
-# Algorithmic Pattern Catalogue
+# Algorithmic Pattern
 
 Alpaca is a laboratory for Algorithmic Pattern, based on-line and
 hopefully one day as a physical research lab in Sheffield UK, emerging
