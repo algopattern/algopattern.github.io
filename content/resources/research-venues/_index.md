@@ -15,7 +15,6 @@ Research events and journals related to the Algorithmic Pattern theme.
 * [FARM](https://functional-art.org/): ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design
 * [LIVE](https://liveprog.org/): Workshop on Live Programming
 * [ACM SIGCHI](https://sigchi.org/conferences/calendar/)
-  - CHI 2023 will be in Hamburg..
 * CSCW - [2021](https://cscw.acm.org/2021/)
 * [ECSCW](https://ecscw.eusset.eu/)
 * [ACM International Conference on Tangible, Embedded and Embodied Interaction](https://tei.acm.org/2022/)
