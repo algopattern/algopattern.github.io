@@ -33,6 +33,7 @@ Research events and journals related to the Algorithmic Pattern theme.
 * [CMJ](https://direct.mit.edu/comj) - Computer Music Journal
 * [HLCI](https://hybrid-livecode.pubpub.org/) - Hybrid Live Coding Interfaces
 * [ICLI](https://live-interfaces.github.io/liveinterfaces2020/) - International Conference on Live Interfaces
+* [IJPADM](https://www.tandfonline.com/toc/rpdm20/current) - International Journal on Performance Arts and Digital Media
 
 ## Textiles and craft. 
 
