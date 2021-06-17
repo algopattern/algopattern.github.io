@@ -3,6 +3,7 @@ title: "Events and journals"
 date: 2021-06-17T12:39:00+01:00
 pre: '<i class="fas fa-calendar-alt"></i> '
 menuTitle: Events & journals
+description: Research events and journals related to the Algorithmic Pattern theme.
 ---
 
 Research events and journals related to the Algorithmic Pattern theme.
