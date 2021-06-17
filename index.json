@@ -1,10 +1,10 @@
 [
 {
-	"uri": "http://algopattern.github.io/research-venues/",
-	"title": "Workshops / conferences / journals",
+	"uri": "http://algopattern.github.io/resources/",
+	"title": "Resources",
 	"tags": [],
 	"description": "",
-	"content": "Research events and journals related to the Algorithmic Pattern theme.\nComputer science and HCI  PROGRAMMING - 2022 International Conference on the Art, Science, and Engineering of Programming SPLASH: ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity FARM: ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design LIVE: Workshop on Live Programming ACM SIGCHI  CHI 2023 will be in Hamburg..* SIGCHI   CSCW - 2021 ECSCW ACM International Conference on Tangible, Embedded and Embodied Interaction ACM International Conference on Functional Programming - 2021 Psychology of Programming Interest Group  Computational aesthetics/arts technology  Computing within limits ACM Creativity and Cognition International Conference on Movement and Computing (MOCO) Performance Research Journal XCoAx - Computation, Communication, Aesthetics \u0026amp; X ICMC - International Computer Music Conference NIME - New Interfaces for Musical Expression ICLC - International Conference on Live Coding CMJ - Computer Music Journal HLCI - Hybrid Live Coding Interfaces ICLI - International Conference on Live Interfaces  Textiles and craft.  TEXTILE journal Textile Intersections conference E-Textiles conference  "
+	"content": "A collection of external resources related to the Algorithmic Pattern theme.\n"
 },
 {
 	"uri": "http://algopattern.github.io/",
@@ -12,6 +12,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Algorithmic Pattern Alpaca is a laboratory for Algorithmic Pattern, based on-line and hopefully one day as a physical research lab in Sheffield UK, emerging from the ERC PENELOPE project, within the FoAM Kernow bubble.\nAlpaca are wonderful animals whose fleeces produce fantastic wool, which is as important for exploring algorithmic patterns as silicon. Alpaca is also short for the Algorithmic Pattern Catalog, an idea which we hope to get going over the next couple of years.\nFor now, we have a forum, exploring readings around algorithmic patterns.\n"
+},
+{
+	"uri": "http://algopattern.github.io/resources/research-venues/",
+	"title": "Events and journals",
+	"tags": [],
+	"description": "",
+	"content": "Research events and journals related to the Algorithmic Pattern theme.\nComputer science and HCI  PROGRAMMING - 2022 International Conference on the Art, Science, and Engineering of Programming SPLASH: ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity FARM: ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design LIVE: Workshop on Live Programming ACM SIGCHI  CHI 2023 will be in Hamburg..* SIGCHI   CSCW - 2021 ECSCW ACM International Conference on Tangible, Embedded and Embodied Interaction ACM International Conference on Functional Programming - 2021 Psychology of Programming Interest Group  Computational aesthetics/arts technology  Computing within limits ACM Creativity and Cognition International Conference on Movement and Computing (MOCO) Performance Research Journal XCoAx - Computation, Communication, Aesthetics \u0026amp; X ICMC - International Computer Music Conference NIME - New Interfaces for Musical Expression ICLC - International Conference on Live Coding CMJ - Computer Music Journal HLCI - Hybrid Live Coding Interfaces ICLI - International Conference on Live Interfaces  Textiles and craft.  TEXTILE journal Textile Intersections conference E-Textiles conference  "
 },
 {
 	"uri": "http://algopattern.github.io/categories/",

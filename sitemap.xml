@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://algopattern.github.io/research-venues/</loc>
-    <lastmod>2021-06-17T12:39:00+01:00</lastmod>
+    <loc>http://algopattern.github.io/resources/</loc>
+    <lastmod>2021-06-17T13:04:15+01:00</lastmod>
   </url><url>
     <loc>http://algopattern.github.io/</loc>
+    <lastmod>2021-06-17T13:04:15+01:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>http://algopattern.github.io/resources/research-venues/</loc>
+    <lastmod>2021-06-17T12:39:00+01:00</lastmod>
   </url><url>
     <loc>http://algopattern.github.io/categories/</loc>
   </url><url>
