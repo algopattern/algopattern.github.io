@@ -6,5 +6,15 @@
     <description>Recent content on Alpaca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="http://algopattern.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshops / conferences / journals</title>
+      <link>http://algopattern.github.io/research-venues/</link>
+      <pubDate>Thu, 17 Jun 2021 12:39:00 +0100</pubDate>
+      
+      <guid>http://algopattern.github.io/research-venues/</guid>
+      <description>Research events and journals related to the Algorithmic Pattern theme.
+Computer science and HCI  PROGRAMMING - 2022 International Conference on the Art, Science, and Engineering of Programming SPLASH: ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity FARM: ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design LIVE: Workshop on Live Programming ACM SIGCHI  CHI 2023 will be in Hamburg..* SIGCHI   CSCW - 2021 ECSCW ACM International Conference on Tangible, Embedded and Embodied Interaction ACM International Conference on Functional Programming - 2021 Psychology of Programming Interest Group  Computational aesthetics/arts technology  Computing within limits ACM Creativity and Cognition International Conference on Movement and Computing (MOCO) Performance Research Journal XCoAx - Computation, Communication, Aesthetics &amp;amp; X ICMC - International Computer Music Conference NIME - New Interfaces for Musical Expression ICLC - International Conference on Live Coding CMJ - Computer Music Journal HLCI - Hybrid Live Coding Interfaces ICLI - International Conference on Live Interfaces  Textiles and craft.</description>
+    </item>
+    
   </channel>
 </rss>
