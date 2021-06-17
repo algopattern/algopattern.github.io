@@ -1,4 +1,4 @@
-baseURL = "http://algopattern.github.io/"
+baseURL = "https://alpaca.lurk.org/"
 languageCode = "en-gb"
 title = "Alpaca"
 theme = "learn"
