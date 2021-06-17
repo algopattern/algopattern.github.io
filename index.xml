@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alpaca</title>
-    <link>http://algopattern.github.io/</link>
+    <link>https://alpaca.lurk.org/</link>
     <description>Recent content on Alpaca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 17 Jun 2021 13:04:15 +0100</lastBuildDate><atom:link href="http://algopattern.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 13:04:15 +0100</lastBuildDate><atom:link href="https://alpaca.lurk.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
