@@ -40,3 +40,4 @@ Research events and journals related to the Algorithmic Pattern theme.
 * [TEXTILE journal](https://journals.sagepub.com/home/trj)
 * [Textile Intersections conference](https://www.textile-intersections.com/)
 * [E-Textiles conference](https://e-textilesconference.com/)
+* [BICCS](https://craftsciencesconference.com/) - Biennial International Conference for the Craft Sciences
