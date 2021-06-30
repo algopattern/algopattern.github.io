@@ -41,6 +41,7 @@ Research events and journals related to the Algorithmic Pattern theme.
 * [Textile Intersections conference](https://www.textile-intersections.com/)
 * [E-Textiles conference](https://e-textilesconference.com/)
 * [BICCS](https://craftsciencesconference.com/) - Biennial International Conference for the Craft Sciences
+* [BRAIDS](https://thebraidsociety.wildapricot.org/Conferences/) - [2022](https://thebraidsociety.wildapricot.org/Braids-2022) - International Conference on Braiding
 
 ## Patterns in nature
 
