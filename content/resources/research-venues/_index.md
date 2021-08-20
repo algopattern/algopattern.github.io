@@ -44,6 +44,7 @@ Research events and journals related to the Algorithmic Pattern theme.
 * [BRAIDS](https://thebraidsociety.wildapricot.org/Conferences/) - [2022](https://thebraidsociety.wildapricot.org/Braids-2022) - International Conference on Braiding
 * [British Textile Biennial](https://britishtextilebiennial.co.uk/), in 2021 partnered with [Textile and Place](https://www.textileandplace.co.uk/) conference
 
-## Patterns in nature
+## Patterns in mathematics and nature
 
 * [SMB](https://www.smb.org/meetings/) - Society for Mathematical Biology Annual Meeting
+* [Complexity explorer](https://www.complexityexplorer.org/) - supporting learners around the world who are seeking to understand the tools, methods and applications of complex systems science
